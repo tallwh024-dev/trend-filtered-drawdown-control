@@ -49,8 +49,8 @@ In the out-of-sample test, the defensive strategy reduced maximum drawdown meani
 
 | Asset | Strategy Max Drawdown | Buy & Hold Max Drawdown |
 |---|---:|---:|
-| SPY | -14.67% | -33.72% |
-| QQQ | -19.72% | -35.12% |
+| SPY | -15.59% | -33.72% |
+| QQQ | -20.54% | -35.12% |
 
 The strategy sacrificed some upside return, but it improved downside protection and risk control, especially for SPY.
 
